@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="pt-br">
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -96,9 +96,9 @@ https://templatemo.com/tm-588-ebook-landing
 
                             <h1 class="text-white mb-4">its mono</h1>
 
-                            <a href="#section_2" class="btn custom-btn smoothscroll me-3">Discover More</a>
+                            <a href="#section_2" class="btn custom-btn smoothscroll me-3">Vja mais</a>
 
-                            <a href="#section_3" class="link link--kale smoothscroll">Meet the Author</a>
+                            <a href="#section_3" class="link link--kale smoothscroll">Conheça a loja</a>
                         </div>
 
                         <div class="hero-image-wrap col-lg-6 col-12 mt-3 mt-lg-0">
@@ -462,8 +462,8 @@ https://templatemo.com/tm-588-ebook-landing
                             </p>
 
                             <p>
-                                <a href="mailto:info@company.com" class="contact-link">
-                                    info@company.com
+                                <a href="itsmonographics@gmail.com" class="contact-link">
+                                    itsmonographics@gmail.com
                                 </a>
                             </p>
 
